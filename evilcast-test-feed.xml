@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>EvilCast Test Feed</title>
+    <link>https://example.com/evilcast-test-feed</link>
+    <description>A fake RSS feed for testing EvilCast new-episode detection and public CloudKit episode indexing.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2026 EvilCast Test Feed</copyright>
+    <lastBuildDate>Tue, 28 Apr 2026 12:00:00 -0400</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 12:00:00 -0400</pubDate>
+    <itunes:author>EvilCast</itunes:author>
+    <itunes:owner>
+      <itunes:name>EvilCast</itunes:name>
+      <itunes:email>test@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://placehold.co/600x600.png"/>
+    <image>
+      <url>https://placehold.co/600x600.png</url>
+      <title>EvilCast Test Feed</title>
+      <link>https://example.com/evilcast-test-feed</link>
+    </image>
+
+    <item>
+      <title>Test Episode 003</title>
+      <description><![CDATA[This is the third fake episode. Change the GUID and pubDate to force another new episode.]]></description>
+      <content:encoded><![CDATA[<p>This is the third fake episode. Change the GUID and pubDate to force another new episode.</p>]]></content:encoded>
+      <pubDate>Tue, 28 Apr 2026 12:00:00 -0400</pubDate>
+      <guid isPermaLink="false">evilcast-test-episode-003</guid>
+      <link>https://example.com/evilcast-test-feed/episodes/003</link>
+      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Test Episode 002</title>
+      <description><![CDATA[This is the second fake episode.]]></description>
+      <content:encoded><![CDATA[<p>This is the second fake episode.</p>]]></content:encoded>
+      <pubDate>Tue, 28 Apr 2026 11:00:00 -0400</pubDate>
+      <guid isPermaLink="false">evilcast-test-episode-002</guid>
+      <link>https://example.com/evilcast-test-feed/episodes/002</link>
+      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-002.mp3" length="1234567" type="audio/mpeg"/>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Test Episode 001</title>
+      <description><![CDATA[This is the first fake episode.]]></description>
+      <content:encoded><![CDATA[<p>This is the first fake episode.</p>]]></content:encoded>
+      <pubDate>Tue, 28 Apr 2026 10:00:00 -0400</pubDate>
+      <guid isPermaLink="false">evilcast-test-episode-001</guid>
+      <link>https://example.com/evilcast-test-feed/episodes/001</link>
+      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-001.mp3" length="1234567" type="audio/mpeg"/>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
