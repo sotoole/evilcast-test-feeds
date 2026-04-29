@@ -21,6 +21,19 @@
       <title>EvilCast Test Feed</title>
       <link>https://example.com/evilcast-test-feed</link>
     </image>
+
+     <item>
+      <title>Test Episode 006</title>
+      <description><![CDATA[This is the third fake episode. Change the GUID and pubDate to force another new episode.]]></description>
+      <content:encoded><![CDATA[<p>This is the third fake episode. Change the GUID and pubDate to force another new episode.</p>]]></content:encoded>
+      <pubDate>Tue, 28 Apr 2026 15:00:00 -0400</pubDate>
+      <guid isPermaLink="false">evilcast-test-episode-006</guid>
+      <link>https://example.com/evilcast-test-feed/episodes/006</link>
+      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
+      <itunes:duration>00:01:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
        
      <item>
       <title>Test Episode 005</title>
