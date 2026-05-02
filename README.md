@@ -8,13 +8,7 @@ Use `evilcast-test-feed.xml` as a fake podcast feed for testing refresh, new-epi
 2. Use the raw file URL as the feed URL:
 
 ```text
-https://raw.githubusercontent.com/sotoole/SillyCast_iOS17/feature/chapters/TestFeeds/evilcast-test-feed.xml
-```
-
-If you host it in another repo or branch, use this pattern:
-
-```text
-https://raw.githubusercontent.com/<owner>/<repo>/<branch>/TestFeeds/evilcast-test-feed.xml
+https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/evilcast-test-feed.xml
 ```
 
 ## Force A New Episode
