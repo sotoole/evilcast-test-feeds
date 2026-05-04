@@ -22,7 +22,7 @@
       <link>https://example.com/evilcast-test-feed</link>
     </image>
 
-     <item>
+    <item>
       <title>Test Episode 020</title>
       <description><![CDATA[This is the third fake episode. Change the GUID and pubDate to force another new episode.]]></description>
       <content:encoded><![CDATA[<p>This is the third fake episode. Change the GUID and pubDate to force another new episode.</p>]]></content:encoded>
