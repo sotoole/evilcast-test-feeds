@@ -23,6 +23,19 @@
     </image>
 
      <item>
+      <title>Test Episode 026</title>
+      <description><![CDATA[This is the third fake episode. Change the GUID and pubDate to force another new episode.]]></description>
+      <content:encoded><![CDATA[<p>This is the third fake episode. Change the GUID and pubDate to force another new episode.</p>]]></content:encoded>
+      <pubDate>Tue, 05 May 2026 18:44:00 -0400</pubDate>
+      <guid isPermaLink="false">evilcast-test-episode-026</guid>
+      <link>https://example.com/evilcast-test-feed/episodes/026</link>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+       
+     <item>
       <title>Test Episode 025</title>
       <description><![CDATA[This is the third fake episode. Change the GUID and pubDate to force another new episode.]]></description>
       <content:encoded><![CDATA[<p>This is the third fake episode. Change the GUID and pubDate to force another new episode.</p>]]></content:encoded>
