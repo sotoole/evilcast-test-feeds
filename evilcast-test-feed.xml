@@ -29,8 +29,8 @@
       <pubDate>Tue, 05 May 2026 18:43:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-025</guid>
       <link>https://example.com/evilcast-test-feed/episodes/025</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -44,8 +44,8 @@
       <pubDate>Tue, 05 May 2026 18:42:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-024</guid>
       <link>https://example.com/evilcast-test-feed/episodes/024</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -58,8 +58,8 @@
       <pubDate>Tue, 05 May 2026 18:41:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-023</guid>
       <link>https://example.com/evilcast-test-feed/episodes/023</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -71,8 +71,8 @@
       <pubDate>Tue, 05 May 2026 18:40:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-022</guid>
       <link>https://example.com/evilcast-test-feed/episodes/022</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -84,8 +84,8 @@
       <pubDate>Mon, 04 May 2026 17:54:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-021</guid>
       <link>https://example.com/evilcast-test-feed/episodes/021</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -97,8 +97,8 @@
       <pubDate>Sun, 03 May 2026 18:04:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-020</guid>
       <link>https://example.com/evilcast-test-feed/episodes/020</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -110,8 +110,8 @@
       <pubDate>Sun, 03 May 2026 18:03:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-019</guid>
       <link>https://example.com/evilcast-test-feed/episodes/019</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -123,8 +123,8 @@
       <pubDate>Sun, 03 May 2026 18:02:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-018</guid>
       <link>https://example.com/evilcast-test-feed/episodes/018</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -136,8 +136,8 @@
       <pubDate>Sun, 03 May 2026 18:01:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-017</guid>
       <link>https://example.com/evilcast-test-feed/episodes/017</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -149,8 +149,8 @@
       <pubDate>Sun, 03 May 2026 18:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-016</guid>
       <link>https://example.com/evilcast-test-feed/episodes/016</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -162,8 +162,8 @@
       <pubDate>Sun, 03 May 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-015</guid>
       <link>https://example.com/evilcast-test-feed/episodes/015</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -175,8 +175,8 @@
       <pubDate>Sun, 03 May 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-014</guid>
       <link>https://example.com/evilcast-test-feed/episodes/014</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -188,8 +188,8 @@
       <pubDate>Sun, 03 May 2026 15:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-013</guid>
       <link>https://example.com/evilcast-test-feed/episodes/013</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -201,8 +201,8 @@
       <pubDate>Sun, 03 May 2026 14:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-012</guid>
       <link>https://example.com/evilcast-test-feed/episodes/012</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -214,8 +214,8 @@
       <pubDate>Sat, 02 May 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-011</guid>
       <link>https://example.com/evilcast-test-feed/episodes/011</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -227,8 +227,8 @@
       <pubDate>Tue, 28 Apr 2026 20:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-010</guid>
       <link>https://example.com/evilcast-test-feed/episodes/010</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -239,8 +239,8 @@
       <pubDate>Tue, 28 Apr 2026 19:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-009</guid>
       <link>https://example.com/evilcast-test-feed/episodes/009</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -251,8 +251,8 @@
       <pubDate>Tue, 28 Apr 2026 17:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-008</guid>
       <link>https://example.com/evilcast-test-feed/episodes/008</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -264,8 +264,8 @@
       <pubDate>Tue, 28 Apr 2026 16:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-007</guid>
       <link>https://example.com/evilcast-test-feed/episodes/007</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -277,8 +277,8 @@
       <pubDate>Tue, 28 Apr 2026 15:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-006</guid>
       <link>https://example.com/evilcast-test-feed/episodes/006</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -290,8 +290,8 @@
       <pubDate>Tue, 28 Apr 2026 14:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-005</guid>
       <link>https://example.com/evilcast-test-feed/episodes/005</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -303,8 +303,8 @@
       <pubDate>Tue, 28 Apr 2026 13:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-004</guid>
       <link>https://example.com/evilcast-test-feed/episodes/004</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -316,8 +316,8 @@
       <pubDate>Tue, 28 Apr 2026 12:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-003</guid>
       <link>https://example.com/evilcast-test-feed/episodes/003</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-003.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -329,8 +329,8 @@
       <pubDate>Tue, 28 Apr 2026 11:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-002</guid>
       <link>https://example.com/evilcast-test-feed/episodes/002</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-002.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -342,8 +342,8 @@
       <pubDate>Tue, 28 Apr 2026 10:00:00 -0400</pubDate>
       <guid isPermaLink="false">evilcast-test-episode-001</guid>
       <link>https://example.com/evilcast-test-feed/episodes/001</link>
-      <enclosure url="https://traffic.libsyn.com/secure/demo/EvilCast-Test-Episode-001.mp3" length="1234567" type="audio/mpeg"/>
-      <itunes:duration>00:01:00</itunes:duration>
+      <enclosure url="https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3" length="5637" type="audio/mpeg"/>
+      <itunes:duration>00:00:01</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>

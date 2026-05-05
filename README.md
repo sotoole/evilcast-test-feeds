@@ -4,11 +4,17 @@ Use `evilcast-test-feed.xml` as a fake podcast feed for testing refresh, new-epi
 
 ## Host On GitHub
 
-1. Commit and push `TestFeeds/evilcast-test-feed.xml`.
+1. Commit and push `evilcast-test-feed.xml` and `test-audio.mp3`.
 2. Use the raw file URL as the feed URL:
 
 ```text
 https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/evilcast-test-feed.xml
+```
+
+If you host it in another repo or branch, use this pattern:
+
+```text
+https://raw.githubusercontent.com/<owner>/<repo>/<branch>/evilcast-test-feed.xml
 ```
 
 ## Force A New Episode
@@ -24,8 +30,12 @@ Add a new `<item>` at the top of the feed, or duplicate the top item and change 
 
 The important part is the `guid`: EvilCast treats a new GUID as a new episode.
 
+The feed uses this tiny MP3 for every enclosure so download and playback testing work:
+
+```text
+https://raw.githubusercontent.com/sotoole/evilcast-test-feeds/main/test-audio.mp3
+```
+
 ## Notes
 
 GitHub raw URLs can be cached briefly. If an update does not appear immediately, wait a minute and pull to refresh again.
-
-The fake enclosure URLs do not need to point to real audio for new-episode detection, but downloads/playback will fail unless you replace them with a real MP3 URL.
